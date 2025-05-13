@@ -80,6 +80,3 @@ To develop a temperature monitoring application with a microcontroller, temperat
 ### 5.2. System Modules
 *   (Final refinements and integration of all modules, focus on stability and user experience)
 
----
-
-*(This document will be updated as each phase is discussed and refined with the user. Phase 1 details are outlined with flexibility for specific numerical values to be determined during testing. Ready to discuss Phase 2 when you are.)*
