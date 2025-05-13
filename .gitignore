@@ -1,0 +1,17 @@
+# Eclipse/STM32CubeIDE
+.settings/
+.metadata/
+*.launch
+
+# Build output
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+
+# IDE-specific
+*.workspace
+
+# Object Files
+*.o 
+*.obj 
