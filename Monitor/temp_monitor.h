@@ -11,7 +11,7 @@ int temperatureSenseCelcius(int tempAvgReading);
 
 int temperatureSenseFahrenheit(int tempAvgReading);
 
-boolean temperatureThreshCheck(int userThresh, int tempReading);
+bool temperatureThreshCheck(int userThresh, int tempReading);
 
 void displayReadingOnLCD(int tempReading);
 
