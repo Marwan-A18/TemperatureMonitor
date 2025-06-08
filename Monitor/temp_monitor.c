@@ -1,5 +1,7 @@
 #include "temp_monitor.h"
 
+//This is the feature development branch - attempting to write with SOLID principles in mind
+
 int temperatureSenseReading()
 {
     return 212;
