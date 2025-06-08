@@ -1,6 +1,8 @@
 #ifndef MONITOR_TEMP_MONITOR_H_
 #define MONITOR_TEMP_MONITOR_H_
 
+#include <stdbool.h>
+
 int temperatureSenseReading();
 
 int temperatureUserThreshold();
